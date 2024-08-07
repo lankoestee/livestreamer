@@ -1,0 +1,9 @@
+run
+datasets
+__pycache__
+.vscode
+weights
+save/*.jpg
+easydarwin/data/
+easydarwin/logs/
+easydarwin/picture/

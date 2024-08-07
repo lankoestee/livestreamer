@@ -1,0 +1,4 @@
+opencv-python
+param
+Pillow
+panel
